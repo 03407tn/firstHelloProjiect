@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5acfea35-360c-4397-8018-784882a08d00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2LBFLq4sRhLOMu927yClkbEUn3H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="ideaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Maven.[]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5acfea35-360c-4397-8018-784882a08d00" name="Default Changelist" comment="" />
+      <created>1675336516224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675336516224</updated>
+      <workItem from="1675336518700" duration="776000" />
+      <workItem from="1675428179269" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Project_Structure" timestamp="1675336656124">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1675336656124" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1675336675667">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1675336675667" />
+    <state x="548" y="163" key="FileChooserDialogImpl" timestamp="1675428999011">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1675428999011" />
+    <state width="1342" height="192" key="GridCell.Tab.0.bottom" timestamp="1675337300842">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675337300842" />
+    <state width="1342" height="192" key="GridCell.Tab.0.center" timestamp="1675337300842">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675337300842" />
+    <state width="1342" height="192" key="GridCell.Tab.0.left" timestamp="1675337300842">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675337300842" />
+    <state width="1342" height="192" key="GridCell.Tab.0.right" timestamp="1675337300842">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1342" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675337300842" />
+    <state x="262" y="50" key="SettingsEditor" timestamp="1675428967423">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="262" y="50" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1675428967423" />
+    <state x="447" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1675428187778">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="447" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1675428187778" />
+    <state x="178" y="8" key="new project wizard" timestamp="1675336709328">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="178" y="8" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1675336709328" />
+  </component>
+</project>
